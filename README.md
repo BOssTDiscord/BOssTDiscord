@@ -10,7 +10,12 @@
 
 - email me! **golgrax@gmail.com**
 
+- my Discord Status 
+<iframe class="discord" src="https://discord.com/users/415464095030968320&theme=dark"/>
+<!-- Change the src to your own discord Iframe link, by going into your channel and going to the widget--!>
 
+- Discord Server
+<iframe src="https://discord.com/widget?id=520499240150106148&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
