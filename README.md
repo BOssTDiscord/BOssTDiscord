@@ -1,27 +1,12 @@
 ### Hi there 👋
-
-<!--
-**BOssTDiscord/BOssTDiscord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">idk BOssT</h1>
-<h3 align="center">I have no idea</h3>
+<h1 align="center">Welcome to my profile</h1>
+<h3 align="center">here's about me!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bosstdiscord&label=Visitors&color=ab00ab&style=flat-square" alt="bosstdiscord" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bosstdiscord" alt="bosstdiscord" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/bughawbenjo" target="blank"><img src="https://img.shields.io/twitter/follow/bughawbenjo?logo=twitter&style=for-the-badge" alt="bughawbenjo" /></a> </p>
+<p align="left"> <a href="https://twitter.com/BughawBenjo" target="blank"><img src="https://img.shields.io/twitter/follow/bughawbenjo?logo=twitter&style=for-the-badge" alt="bughawbenjo" /></a> </p>
 
 - email me! **golgrax@gmail.com**
 
@@ -32,10 +17,10 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/bosstdiscord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bosstdiscord" height="30" width="40" /></a>
-<a href="https://twitter.com/bughawbenjo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bughawbenjo" height="30" width="40" /></a>
-<a href="https://fb.com/bosst.team" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bosst.team" height="30" width="40" /></a>
+<a href="https://twitter.com/BughawBenjo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bughawbenjo" height="30" width="40" /></a>
+<a href="https://fb.com/BOssT.Team" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bosst.team" height="30" width="40" /></a>
 <a href="https://instagram.com/bosstdiscord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bosstdiscord" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/bosst discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bosst discord" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCd3MyQ0HJv_TprG0GHtJ6cQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bosst discord" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
