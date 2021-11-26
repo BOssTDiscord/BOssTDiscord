@@ -33,8 +33,8 @@
 
 <details><summary><h3>My Stats</h3></summary>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bosstdiscord&show_icons=true&theme=dark&title_color=006e00&text_color=00ff33&bg_color=00b05b&locale=en&layout=compact" alt="bosstdiscord" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bosstdiscord&show_icons=true&theme=dark&title_color=006e00&text_color=00ff33&bg_color=000008&locale=en&layout=compact" alt="bosstdiscord" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bosstdiscord&show_icons=true&theme=cobalt&title_color=ffc2ff&text_color=b869b8&bg_color=380038&locale=en" alt="bosstdiscord" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bosstdiscord&show_icons=true&theme=cobalt&title_color=ffc2ff&text_color=b00b69&bg_color=000008&locale=en" alt="bosstdiscord" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bosstdiscord&theme=highcontrast" alt="bosstdiscord" /></p>
