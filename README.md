@@ -2,7 +2,9 @@
 <h1 align="center">Welcome to my profile</h1>
 <h3 align="center">here's about me!</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bosstdiscord&label=Visitors&color=ab00ab&style=flat-square" alt="bosstdiscord" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bosstdiscord&label=Visitors&color=ab00ab&style=flat-square" alt="Visits" /> </p>
+<p align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=BOssTDiscord.BOssTDiscord" alt="Profile Visitor"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=BOssTDiscord&label=Profile%20views&color=B00B69&style=flat" alt="Profile Viewer" /> </p>
 <h align="center">
 <pre>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bosstdiscord" alt="bosstdiscord" /></a> </p>
@@ -28,16 +30,16 @@
 </br>
 </br>
 </h>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://dev.to/bosstdiscord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bosstdiscord" height="30" width="40" /></a>
 <a href="https://twitter.com/BughawBenjo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bughawbenjo" height="30" width="40" /></a>
 <a href="https://fb.com/BOssT.Team" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bosst.team" height="30" width="40" /></a>
 <a href="https://instagram.com/bosstdiscord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bosstdiscord" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCd3MyQ0HJv_TprG0GHtJ6cQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bosst discord" height="30" width="40" /></a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.google.com/search?q=HTML&oq=HTML&aqs=chrome..69i57j69i60j69i61j69i60j35i39l2j0i433i512l2.1265j0j7&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/b4c648ad32f8f9f7c328a4dd59b5df0eb2a4e2623095e31d059f026979129491/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d4533344632362e7376673f6c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML"/> </a> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.google.com/search?q=HTML&oq=HTML&aqs=chrome..69i57j69i60j69i61j69i60j35i39l2j0i433i512l2.1265j0j7&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/b4c648ad32f8f9f7c328a4dd59b5df0eb2a4e2623095e31d059f026979129491/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d4533344632362e7376673f6c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML"/> </a> 
  <a href="https://www.google.com/search?q=CSS&oq=CSS&aqs=chrome..69i57j69i60j69i61j69i60j35i39l2j0i433i512l2.1265j0j7&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/53132716f8ed401a79d8c0980b9666b6cd8ce8e7faed1beeb328f821b44850bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d3135373242362e7376673f6c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="CSS"/> </a> 
  <a href="https://www.google.com/search?q=Javascript&oq=Javascript&aqs=chrome..69i57j69i60j69i61j69i60j35i39l2j0i433i512l2.1265j0j7&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/9a794a64d79bb070a8009cf27eb31c989d09d43a65f95362c88ed6c28218319b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631452e7376673f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" alt="Javascript"/> </a> 
  <a href="https://www.google.com/search?q=Node.js&oq=Node.js&aqs=chrome..69i57j69i60j69i61j69i60j35i39l2j0i433i512l2.1265j0j7&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/03d91be86cc33b72b22f8e84f2706a0a91ab0fca763566745ea6e3f72562811e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3433383533442e7376673f6c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" alt="Node.js"/> </a> 
@@ -48,7 +50,7 @@
            
            
 <pre>
-<details><summary><h3>My Stats</h3></summary>
+<details align="center"><summary><h3>My Stats</h3></summary>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bosstdiscord&show_icons=true&theme=dark&title_color=006e00&text_color=00ff33&bg_color=000008&locale=en&layout=compact" alt="bosstdiscord" /></p>
 
