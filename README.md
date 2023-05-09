@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Golgrax&label=Profile%20views&color=B00B69&style=flat" alt="Profile Viewer" /> </p>
 <h align="center">
- <p align="center"> it's over 6k before I add a lilbit changes on this repo xP</p>
+ <p align="center">(it resets every 3 days)</p>
 
 <pre>
 <p align="center"> <a href="https://github.com/Golgrax?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=Golgrax" alt="Golgrax" /></a> </p>
