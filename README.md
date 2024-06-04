@@ -59,4 +59,23 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Golgrax&show_icons=true&theme=cobalt&title_color=ffc2ff&text_color=b00b69&bg_color=000008&locale=en" alt="Golgrax" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Golgrax&theme=highcontrast" alt="Golgraxa" /></p>
+
+
+
+
+
+</details>
+
 </pre>
+
+
+
+
+
+</br>
+ ###
+
+[![Metrics](https://raw.githubusercontent.com/Golgrax/Golgrax/main/github-metrics.svg)](https://github.com/Golgrax)
+
+###
+
