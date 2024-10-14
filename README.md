@@ -1,4 +1,4 @@
-### Hi there! click the ▶ to see more infos :) 
+### Hi there! click the ▶ to see more informations about me :) 
 <h1 align="center">Welcome to my profile</h1>
 <details align="center">
            <summary><h3>  here's about me!</h3></summary>
@@ -61,5 +61,5 @@
 
 
 - email me! <br>
-**golgrax@gmail.com** <br>
+**karlbenjaminbughaw@gmail.com** <br>
 **benjo@pro.space**
